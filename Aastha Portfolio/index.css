@@ -1,0 +1,211 @@
+html{
+    overflow-y: hidden;
+    
+}
+body {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    overflow-y: hidden;
+}
+/*#gradient{
+    position: absolute;
+    width: 40%;
+    height: 30%;
+    padding: 0px;
+    margin: 0px;
+    top:30%;
+    right:30%
+}*/
+
+h1 {
+    position: fixed;
+    color: white;
+    font-size: 10em;
+    top: 28%;
+    right: 31%;
+    font-family: 'Homenaje', sans-serif;
+}
+h2 {
+    position: fixed;
+    color: black;
+    font-size: 6em;
+    top: 28%;
+    right: 31%;
+    font-family: 'Homenaje', sans-serif;
+}
+
+
+#square1{
+	width: 50%;
+	height: 50%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+
+.whiteSmallRectangle1{
+    width: 45%;
+    height: 45%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+
+#square2{
+	width: 42%;
+	height: 42%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+
+.whiteSmallRectangle2{
+    width: 39%;
+    height: 39%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+
+#square3{
+	width: 36%;
+	height: 36%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle3{
+    width: 33%;
+    height: 33%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square4{
+	width: 30%;
+	height: 30%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle4{
+    width: 27%;
+    height: 27%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square5{
+	width: 24%;
+	height: 24%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle5{
+    width: 21%;
+    height: 21%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square6{
+	width: 18%;
+	height: 18%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle6{
+    width: 15%;
+    height: 15%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square7{
+	width: 12%;
+	height: 12%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle7{
+    width: 9%;
+    height: 9%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square8{
+	width: 6%;
+	height: 6%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.whiteSmallRectangle8{
+    width: 3%;
+    height: 3%;
+    position:fixed;
+    top: 25%;
+    right: 25%;
+    background-color: white;
+}
+#square9{
+	width: 2%;
+	height: 2%;
+	background: black;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+}
+.firstName{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    position: absolute;
+    right: 65%;
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+    top: 40%;
+}
+.lastName{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    position: absolute;
+    right: 16%;
+	transform: rotate(270deg);
+	transform-origin: left top 0;
+    top: 55%;
+}
+.about{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    position: absolute;
+    right: 44%;
+    top: 18%;
+}
+
+.works{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    position: absolute;
+    right: 44%;
+    top: 77%;
+}
